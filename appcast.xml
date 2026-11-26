@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Pomobrush Updates</title>
+    <item>
+      <title>Pomobrush 0.8.8</title>
+      <pubDate>Thu, 26 Nov 2026 22:32:35 GMT</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.8.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/szymonbruh/Pomobrush/releases/download/v0.8.8/Pomobrush-0.8.8.dmg" type="application/octet-stream" length="5164868" sparkle:edSignature="1RxxcgZBsVWYvifiTCr8YIM3UVcMpg06rsZqmuRWmx70Ybfd8PviFEQ+cCXPTZe56jDiAvSLJYtfCR0Fr8AzAw==" />
+    </item>
+  </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: MfVjxQa5F72yejqmb/AslRdacVRbE11katHBAvha80w5FguKfwQCPcFcvRyPoev0LBaaKR0TKzY+AKgdZtxhAg==
+length: 767
+-->
